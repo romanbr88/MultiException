@@ -1,0 +1,1 @@
+Implementation of the multi exception pattern

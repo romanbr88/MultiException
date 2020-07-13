@@ -1,0 +1,7 @@
+{
+  "name": "romanbr/multiexception",
+  "description": "Implementation of the multi exception pattern",
+  "require": {
+    "php": "^7.2"
+  }
+}
