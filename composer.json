@@ -1,7 +1,13 @@
 {
   "name": "romanbr/multiexception",
   "description": "Implementation of the multi exception pattern",
+  "license": "MIT",
   "require": {
     "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "RomanBR\\MultiException\\": "src/"
+    }
   }
 }
